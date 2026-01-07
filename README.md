@@ -7,17 +7,17 @@ Projeto simples desenvolvido em Python com o objetivo de praticar:
 - Estruturas de repetição
 - Entrada de dados pelo terminal
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Cadastro de pessoas (nome e idade)
 - Armazenamento dos dados em memória
 - Listagem dos cadastros realizados
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Python 3
 
-## ▶️ Como executar o projeto
+## Como executar o projeto
 
 1. Clone este repositório:
    ```bash
